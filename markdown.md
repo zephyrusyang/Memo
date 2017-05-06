@@ -1,0 +1,18 @@
+# What is markdown?
+
+> [mark down on wiki](https://en.wikipedia.org/wiki/Markdown)
+
+
+---
+
+# Usage
+> [Usage of markdown on github](https://help.github.com/categories/writing-on-github/)
+
+---
+
+# how to use markdown on emacs?
+> [markdown-mode](http://jblevins.org/projects/markdown-mode/)
+
+> [plus + a](]http://qiita.com/garaemon/items/2a551f6da3380950b21c)
+
+

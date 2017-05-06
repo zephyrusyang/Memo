@@ -1,0 +1,3 @@
+memo about git
+
+*
