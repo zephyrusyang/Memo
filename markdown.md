@@ -2,11 +2,10 @@
 
 > [mark down on wiki](https://en.wikipedia.org/wiki/Markdown)
 
-
 ---
 
 # Usage
-> [Usage of markdown on github](https://help.github.com/categories/writing-on-github/)
+> [Usage of markdown on github](https://help.github.com/articles/basic-writing-and-formatting-syntax)
 
 ---
 
